@@ -6,7 +6,7 @@ public class Main {
         Toy[] toys = {
                 new Car("Toy Car", "A fast red car", "Green", 200),
                 new Doll("Barbie doll", "A beautiful doll", "Black", "white"),
-                new Ball("Football", "A big bouncy ball", 15, "Yellow")
+                new Ball("Football", "A big bouncy ball", 9, "Yellow")
         };
 
         System.out.println("Welcome to the Toy Box! Here are the toys:");
