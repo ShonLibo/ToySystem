@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         Toy[] toys = {
-                new Car("Toy Car", "A fast red car", "Red", 100),
+                new Car("Toy Car", "A fast red car", "blue", 100),
                 new Doll("Barbie doll", "A beautiful doll", "Blonde", "Pink"),
                 new Ball("Football", "A big bouncy ball", 10, "Blue")
         };
