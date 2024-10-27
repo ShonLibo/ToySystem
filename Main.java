@@ -5,7 +5,7 @@ public class Main {
 
         Toy[] toys = {
                 new Car("Toy Car", "A fast red car", "Black", 100),
-                new Doll("Barbie doll", "A beautiful doll", "Blonde", "white"),
+                new Doll("Barbie doll", "A beautiful doll", "Black", "white"),
                 new Ball("Football", "A big bouncy ball", 10, "Brown")
         };
 
